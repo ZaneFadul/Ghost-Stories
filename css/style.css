@@ -1,0 +1,20 @@
+/*TEA COLOR #FFFEE8*/
+/*BOBA COLOR #191209*/
+
+html, body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Jura', sans-serif;
+}
+
+body{
+  background-color: black;
+
+}
+
+#introvideo {
+  height: 100%;
+  width: 100%;
+}
